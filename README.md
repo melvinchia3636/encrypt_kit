@@ -6,7 +6,9 @@ Type of encryption available now:
 
 To import it in your Python project:
 
-`import encrypt_kit`
+```diff
+import encrypt_kit
+```
 
 To encrypt:
   
@@ -17,4 +19,5 @@ To decrypt:
   `type_of_encryption.decrypt(string, key)`
 
 encryption will return a string of code and a string of key
+
 decryption will return the original string
