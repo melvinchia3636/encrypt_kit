@@ -1,12 +1,12 @@
 # encrypt_kit
-A small module to encrypt text
+**A small module to encrypt text**
 
 Type of encryption available now:
   - type1
 
 To import it in your Python project:
-  
-  import encrypt_kit
+
+  `import encrypt_kit`
 
 To encrypt:
   
